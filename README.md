@@ -21,7 +21,7 @@ For webmasters, if you have not tried the script before, download and install no
 
 For end-users, you may search on our forum for readily available installed scripts on servers worldwide. You may use them but please support these sites by visiting their sponsors or donate in order to keep these sites available.
 
-https://heroku.com/deploy
+https://heroku.com/deploy?template=https://github.com/sholoomail/BakaLeech-v2
 
 ## Telegram Support:
 
